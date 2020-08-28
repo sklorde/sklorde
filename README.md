@@ -7,11 +7,6 @@ Now, i'm working in my project [WaterCounter](https://github.com/sklorde/waterco
 
 Feel welcome to 🔍 my repositories!
 
-### Stats :bar_chart:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sklorde&show_icons=true&count_private=true">
-</p>
-
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/%20-delphi-ED1F35.svg?style=for-the-badge&logo=embarcadero" alt="Delphi">
