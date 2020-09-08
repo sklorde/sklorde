@@ -1,9 +1,11 @@
 ### About me 💬
-I'm a software developer at [G10 Sistemas](http://www.g10sistemas.com) where I develop in Delphi ❤️ and Flutter 💙 i'm also study analysis and system development at [IFBA](https://portal.ifba.edu.br/santoantonio).
+I'm a software developer at [G10 Sistemas](http://www.g10sistemas.com) where I develop in Delphi ❤️ and Flutter 💙.
+
+Studying analysis and system development at [IFBA](https://portal.ifba.edu.br/santoantonio).
 
 I was worked in projects with brazilian fiscal systems like [CTE](https://www.cte.fazenda.gov.br/portal/) and [MDFE](https://dfe-portal.svrs.rs.gov.br/Mdfe).
 
-Now, i'm working in my project [WaterCounter](https://github.com/sklorde/watercounter)💦.
+Now, i'm working on my project [WaterCounter](https://github.com/sklorde/watercounter)💦.
 
 Feel welcome to 🔍 my repositories!
 
