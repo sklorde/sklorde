@@ -1,19 +1,16 @@
-### About me 💬
-I'm a software developer at [G10 Sistemas](http://www.g10sistemas.com) where I develop in Delphi ❤️ and Flutter 💙.
+### Hi there 👋
 
-Studying analysis and system development at [IFBA](https://portal.ifba.edu.br/santoantonio).
+#### I'm a Flutter/Delphi Developer working in Santo Antônio de Jesus, Bahia.
 
-I was worked in projects with brazilian fiscal systems like [CTE](https://www.cte.fazenda.gov.br/portal/) and [MDFE](https://dfe-portal.svrs.rs.gov.br/Mdfe).
+##### NOW
 
-Now, i'm working on my project [WaterCounter](https://github.com/sklorde/watercounter)💦.
+- ✨ Doing [Get Crypto](https://github.com/sklorde/getCrypto) mobile app (Flutter 💙);
+- ✨ Doing [DelphiToHero](https://github.com/sklorde/DelphiToHero) desktop app (Delphi ❤️).
 
-Feel welcome to 🔍 my repositories!
+##### BIO
 
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/%20-delphi-ED1F35.svg?style=for-the-badge&logo=embarcadero" alt="Delphi">
-  <img src="https://img.shields.io/badge/%20-flutter-02569B.svg?style=for-the-badge&logo=flutter" alt="Flutter">
-  <img src="https://img.shields.io/badge/%20-github-181717.svg?style=for-the-badge&logo=github" alt="Github">
-  <img src="https://img.shields.io/badge/%20-git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/%20-c lang-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black" alt="C">
-</p>
+- 🏢 I'm currently working at **G10 Sistemas**
+- ⚙️ I use daily: some SQL databases, Delphi, Flutter, .json
+- 🌱 Learning all about **best coding practices**
+- 📫 Reach me: [twitter.com/caneco](https://twitter.com/caneco)
+- ⚡️ Fun fact: I really like idle games (i have little time)
