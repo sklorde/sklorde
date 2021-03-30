@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ✨ Doing [Get Crypto](https://github.com/sklorde/getCrypto) mobile app (Flutter 💙);
+- ✨ Doing [GetCrypto](https://github.com/sklorde/getCrypto) mobile app (Flutter 💙);
 - ✨ Doing [DelphiToHero](https://github.com/sklorde/DelphiToHero) desktop app (Delphi ❤️).
 
 ##### BIO
@@ -12,5 +12,8 @@
 - 🏢 I'm currently working at **G10 Sistemas**
 - ⚙️ I use daily: some SQL databases, Delphi, Flutter, .json
 - 🌱 Learning all about **best coding practices**
-- 📫 Reach me: [twitter.com/caneco](https://twitter.com/caneco)
-- ⚡️ Fun fact: I really like idle games (i have little time)
+- 📫 Reach me at Instagram or Linkedin
+- ⚡️ Fun fact: I really like idle games
+
+![Instagram](https://img.shields.io/badge/Follow-Instagram-important?style=for-the-badge&logo=Instagram&logoColor=important&logoWidth=15)
+![Linkedin](https://img.shields.io/badge/See-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=blue&logoWidth=15)
