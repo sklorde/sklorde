@@ -4,8 +4,8 @@
 
 ##### NOW
 
-- ✨ Doing [GetCrypto](https://github.com/sklorde/getCrypto) mobile app (Flutter 💙);
-- ✨ Doing [DelphiToHero](https://github.com/sklorde/DelphiToHero) desktop app (Delphi ❤️).
+- ✨ Doing [GetCrypto](https://github.com/sklorde/getCrypto) mobile app (Flutter💙)
+- ✨ Doing [DelphiToHero](https://github.com/sklorde/DelphiToHero) desktop app (Delphi❤️)
 
 ##### BIO
 
