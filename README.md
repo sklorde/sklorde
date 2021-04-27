@@ -4,8 +4,9 @@
 
 ##### NOW
 
-- ✨ Doing [GetCrypto](https://github.com/sklorde/getCrypto) mobile app (Flutter💙)
-- ✨ Doing [DelphiToHero](https://github.com/sklorde/DelphiToHero) desktop app (Delphi❤️)
+- ✨ Doing [GetCrypto](https://github.com/sklorde/getCrypto) mobile app to see cryptocurrency (Flutter💙)
+- ✨ Doing [fifaStats](https://github.com/sklorde/fifaStats) unofficial mobile FIFA app (Flutter💙)
+- ✨ Doing [DelphiToHero](https://github.com/sklorde/DelphiToHero) an ERP desktop app (Delphi❤️)
 
 ##### BIO
 
