@@ -10,8 +10,8 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **G10 Sistemas**
-- ⚙️ I use daily: some SQL databases, Delphi, Flutter, .json
+- 🏢 I'm currently working at **Sabium Sistemas**
+- ⚙️ I use daily: some SQL databases, Delphi, Flutter.
 - 🌱 Learning all about **best coding practices**
 - 📫 Reach me at Instagram or Linkedin
 - 😄 Fun fact: I really like idle games
